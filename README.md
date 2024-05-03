@@ -1,6 +1,5 @@
 # RESILIADATA - Sistema de Gerenciamento de Parceiros e Tecnologias
 ![image](https://github.com/Delson2000/Projeto-Individual-M2-Cnseg/assets/112819612/a04b5199-9bb2-4158-92e2-d675e7827a53)
-https://lucid.app/publicSegments/view/645790e4-1926-43e7-9969-27e98389bcc1/image.png
 
 O RESILIADATA é um sistema de banco de dados desenvolvido para auxiliar na gestão de informações sobre empresas parceiras, tecnologias utilizadas e colaboradores associados a essas empresas. Este README fornece uma visão geral do esquema do banco de dados e como as entidades estão relacionadas.
 
